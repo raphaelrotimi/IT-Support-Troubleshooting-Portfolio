@@ -1,85 +1,76 @@
-Project 01: Windows Installation Using a Bootable USB
+Windows Installation Using a Bootable USB
 
-Category: IT Support · Desktop Support · Operating System Installation
+IT Support Portfolio | Project 01
 
----
+Overview
 
-Project Overview
+This project explains the process of installing Windows using a bootable USB flash drive.
 
-This project provides a step-by-step guide to installing the Windows operating system using a bootable USB flash drive.
-
-Windows installation is an essential IT support task used when setting up a new computer, replacing a damaged operating system, or performing a clean installation.
-
-«Documentation note: This is an instructional project. The infographic is an illustrative guide, not evidence of a personal installation.»
+It covers USB preparation, boot menu selection, Windows installation and initial system configuration.
 
 Installation Guide
 
 "Windows Installation Guide" (windows-installation-guide.png)
 
-Tools and Requirements
+Requirements
 
 - Computer or laptop
-- USB flash drive (8 GB or larger recommended)
+- USB flash drive (8 GB or larger)
 - Windows installation media
 - Reliable power supply
-- Computer BIOS/UEFI boot menu
 
-Installation Procedure
+Installation Steps
 
-Step 1 — Prepare the Bootable USB
+1. Prepare the Bootable USB
 
-Create Windows installation media on a USB flash drive using an appropriate Windows installation-media tool.
+Create Windows installation media on a USB flash drive using an appropriate installation-media tool.
 
-Step 2 — Connect the USB Drive
+2. Connect the USB Drive
 
 Insert the bootable USB flash drive into the computer.
 
-Step 3 — Access the Boot Menu
+3. Access the Boot Menu
 
-Restart the computer and use the manufacturer's boot-menu key to select the USB drive.
+Restart the computer and select the USB drive from the boot menu.
 
-Step 4 — Start Windows Setup
+4. Start Windows Setup
 
-Select the installation language, time format, and keyboard layout. Continue to Windows Setup.
+Choose the preferred language, time format and keyboard layout.
 
-Step 5 — Install Windows
+5. Install Windows
 
-Follow the installation instructions and select the appropriate installation option and destination drive.
+Follow the installation instructions and select the correct destination drive.
 
-«Important: A clean installation can erase existing files. Back up important data and confirm the correct destination drive before proceeding.»
+Important: Back up important files before a clean installation. Selecting the wrong drive may result in data loss.
 
-Step 6 — Complete Initial Setup
+6. Complete Initial Setup
 
-Allow the installation to finish, then complete the initial Windows configuration.
+Allow Windows installation to finish and complete the initial configuration.
 
-Troubleshooting Considerations
+Common Installation Problems
 
-Common issues during Windows installation include:
-
-- USB drive not appearing in the boot menu
-- Computer refusing to boot from USB
-- Windows Setup not detecting the storage drive
+- USB drive not detected
+- Computer unable to boot from USB
+- Storage drive not detected
 - Installation interruptions
-- Incorrect BIOS/UEFI boot settings
+- Incorrect BIOS/UEFI settings
 
-Expected Outcome
+Expected Result
 
-A successful installation should allow the computer to start Windows and proceed to the initial desktop setup.
+The computer starts Windows successfully and reaches the desktop, ready for initial configuration.
 
-Technical Skills Covered
+Skills Covered
 
-- Operating system installation
-- Bootable USB preparation and usage
+- Windows installation
+- Bootable USB preparation
 - BIOS/UEFI boot selection
-- Basic desktop troubleshooting
-- Windows setup and configuration
+- Operating system troubleshooting
+- Desktop support
 
-Project Evidence
+Documentation
 
-The infographic above illustrates the installation stages for learning and documentation.
+This is an instructional guide. The infographic is an illustrative visual, not evidence of a personal installation.
 
-Personal photographs or screenshots from an actual installation can be added here when available.
+Author: Raphael Rotimi
 
----
-
-Portfolio: "Raphael Rotimi – GitHub" (https://github.com/raphaelrotimi)
+"GitHub Profile" (https://github.com/raphaelrotimi)
