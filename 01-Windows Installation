@@ -1,0 +1,76 @@
+Windows Installation Using a Bootable USB
+
+IT Support Portfolio | Project 01
+
+Overview
+
+This project explains the process of installing Windows using a bootable USB flash drive.
+
+It covers USB preparation, boot menu selection, Windows installation and initial system configuration.
+
+Installation Guide
+
+"Windows Installation Guide" (windows-installation-guide.png)
+
+Requirements
+
+- Computer or laptop
+- USB flash drive (8 GB or larger)
+- Windows installation media
+- Reliable power supply
+
+Installation Steps
+
+1. Prepare the Bootable USB
+
+Create Windows installation media on a USB flash drive using an appropriate installation-media tool.
+
+2. Connect the USB Drive
+
+Insert the bootable USB flash drive into the computer.
+
+3. Access the Boot Menu
+
+Restart the computer and select the USB drive from the boot menu.
+
+4. Start Windows Setup
+
+Choose the preferred language, time format and keyboard layout.
+
+5. Install Windows
+
+Follow the installation instructions and select the correct destination drive.
+
+Important: Back up important files before a clean installation. Selecting the wrong drive may result in data loss.
+
+6. Complete Initial Setup
+
+Allow Windows installation to finish and complete the initial configuration.
+
+Common Installation Problems
+
+- USB drive not detected
+- Computer unable to boot from USB
+- Storage drive not detected
+- Installation interruptions
+- Incorrect BIOS/UEFI settings
+
+Expected Result
+
+The computer starts Windows successfully and reaches the desktop, ready for initial configuration.
+
+Skills Covered
+
+- Windows installation
+- Bootable USB preparation
+- BIOS/UEFI boot selection
+- Operating system troubleshooting
+- Desktop support
+
+Documentation
+
+This is an instructional guide. The infographic is an illustrative visual, not evidence of a personal installation.
+
+Author: Raphael Rotimi
+
+"GitHub Profile" (https://github.com/raphaelrotimi)
